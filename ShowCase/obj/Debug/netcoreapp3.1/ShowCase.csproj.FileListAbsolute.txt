@@ -1,0 +1,16 @@
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.exe
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.deps.json
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.runtimeconfig.json
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.runtimeconfig.dev.json
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.dll
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.pdb
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csprojAssemblyReference.cache
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.AssemblyInfoInputs.cache
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.AssemblyInfo.cs
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csproj.CoreCompileInputs.cache
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.dll
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.pdb
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.genruntimeconfig.cache
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\bin\Debug\netcoreapp3.1\StringLibrary.dll
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\bin\Debug\netcoreapp3.1\StringLibrary.pdb
+G:\Users\Doug\Development\Git Projects\ConsoleWithLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csproj.CopyComplete
